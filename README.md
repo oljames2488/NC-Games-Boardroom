@@ -53,7 +53,11 @@ You can access the API at: [Heroku](https://the-boardroom.herokuapp.com/api)
         $ npm i -D supertest
         $ npm i -D nodemon
 
-You will need to create _two_ `.env` files for the app: `.env.test` and `.env.development`. Into `.env.test` add `PGDATABASE=<database_name_here>` with your choice of database name for both the dev and test environment.
+You will need to create _two_ `.env` files for the app: `.env.test` and `.env.development`. 
+
+Into `.env.test` add `PGDATABASE=nc_games_test`
+Into `.env.development` add `PGDATABASE=nc_games`
+
 
 - Setup database
 

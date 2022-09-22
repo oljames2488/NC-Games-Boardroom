@@ -55,8 +55,6 @@ You can access the API at: [Heroku](https://the-boardroom.herokuapp.com/api)
 
 You will need to create _two_ `.env` files for the app: `.env.test` and `.env.development`. Into `.env.test` add `PGDATABASE=<database_name_here>` with your choice of database name for both the dev and test environment.
 
-There is a provided `db` folder with some data, a [setup.sql](./db/setup.sql) file and a `seeds` folder.
-
 - Setup database
 
         $ npm run setup-dbs && npm run seed

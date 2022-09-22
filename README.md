@@ -32,8 +32,7 @@ You can access the API at: [Heroku](https://the-boardroom.herokuapp.com/api)
 
 - In your terminal:
 
-        $ git clone https://github.com/TBCTBC
-        $ cd bys-news
+        $ git clone https://github.com/oljames2488/NC-Games-Boardroom.git
 
 ## Running the Application
 

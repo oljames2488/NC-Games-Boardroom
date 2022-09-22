@@ -1,6 +1,6 @@
 # The Boardroom API
 
-## Built by Oscar James (https://github.com/oscarJames24)
+## Built by Oscar James (https://github.com/oljames2488)
 
 ## Description
 
